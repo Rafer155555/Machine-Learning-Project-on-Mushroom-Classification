@@ -1,0 +1,3 @@
+scala
+
+mushroom.createOrReplaceTempView("MushroomData")
